@@ -1,5 +1,7 @@
 <?php
 
+// Github visibility bool set to - "public"
+
 use PHPUnit\Framework\TestCase;
 use Elasticsearch\Client; // Import the Elasticsearch Client class
 //use Elasticsearch\ClientBuilder;
